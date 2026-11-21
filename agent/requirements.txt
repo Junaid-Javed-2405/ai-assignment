@@ -1,0 +1,7 @@
+langchain>=1.4
+langchain-groq
+langgraph
+langgraph-checkpoint-sqlite
+aiosqlite
+fastmcp
+python-dotenv
